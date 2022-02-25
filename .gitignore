@@ -1,2 +1,5 @@
 src/apidocs
 src/apidocs
+/target/
+login_activity.txt
+.DS_Store
